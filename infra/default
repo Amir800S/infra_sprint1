@@ -55,7 +55,7 @@
     }
 
 
-
+client_max_body_size 20M;
 
     listen 443 ssl; # managed by Certbot
     ssl_certificate /etc/letsencrypt/live/kittyhostdev.ddns.net/fullchain.pem; # managed by Certbot

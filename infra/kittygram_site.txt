@@ -1,5 +1,5 @@
 IP: 158.160.16.192;
 name_taski: https://testdev.sytes.net ;
 name_kittygram: https://kittyhostdev.ddns.net ;
-login: amir;
-password: amir; 
+login: UserReview123;
+password: UserReviewPass999;
